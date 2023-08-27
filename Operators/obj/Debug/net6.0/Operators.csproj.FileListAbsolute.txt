@@ -1,0 +1,15 @@
+F:\Class\Dec22\C#\BasicCSharp\Operators\bin\Debug\net6.0\Operators.exe
+F:\Class\Dec22\C#\BasicCSharp\Operators\bin\Debug\net6.0\Operators.deps.json
+F:\Class\Dec22\C#\BasicCSharp\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+F:\Class\Dec22\C#\BasicCSharp\Operators\bin\Debug\net6.0\Operators.dll
+F:\Class\Dec22\C#\BasicCSharp\Operators\bin\Debug\net6.0\Operators.pdb
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.dll
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\refint\Operators.dll
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.pdb
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+F:\Class\Dec22\C#\BasicCSharp\Operators\obj\Debug\net6.0\ref\Operators.dll
