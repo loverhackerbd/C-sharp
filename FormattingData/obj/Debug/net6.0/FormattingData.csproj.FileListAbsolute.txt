@@ -1,0 +1,15 @@
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\bin\Debug\net6.0\FormattingData.exe
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\bin\Debug\net6.0\FormattingData.deps.json
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\bin\Debug\net6.0\FormattingData.runtimeconfig.json
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\bin\Debug\net6.0\FormattingData.dll
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\bin\Debug\net6.0\FormattingData.pdb
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.csproj.AssemblyReference.cache
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.AssemblyInfoInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.AssemblyInfo.cs
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.csproj.CoreCompileInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.dll
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\refint\FormattingData.dll
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.pdb
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\FormattingData.genruntimeconfig.cache
+F:\Class\Dec22\C#\BasicCSharp\FormattingData\obj\Debug\net6.0\ref\FormattingData.dll
