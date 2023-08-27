@@ -1,0 +1,15 @@
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\bin\Debug\net6.0\ControlStructure.exe
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\bin\Debug\net6.0\ControlStructure.deps.json
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\bin\Debug\net6.0\ControlStructure.runtimeconfig.json
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\bin\Debug\net6.0\ControlStructure.dll
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\bin\Debug\net6.0\ControlStructure.pdb
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.csproj.AssemblyReference.cache
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.AssemblyInfoInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.AssemblyInfo.cs
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.csproj.CoreCompileInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.dll
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\refint\ControlStructure.dll
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.pdb
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ControlStructure.genruntimeconfig.cache
+F:\Class\Dec22\C#\BasicCSharp\ControlStructure\obj\Debug\net6.0\ref\ControlStructure.dll
