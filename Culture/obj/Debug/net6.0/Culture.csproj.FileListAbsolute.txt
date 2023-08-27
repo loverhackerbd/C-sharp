@@ -1,0 +1,15 @@
+F:\Class\Dec22\C#\BasicCSharp\Culture\bin\Debug\net6.0\Culture.exe
+F:\Class\Dec22\C#\BasicCSharp\Culture\bin\Debug\net6.0\Culture.deps.json
+F:\Class\Dec22\C#\BasicCSharp\Culture\bin\Debug\net6.0\Culture.runtimeconfig.json
+F:\Class\Dec22\C#\BasicCSharp\Culture\bin\Debug\net6.0\Culture.dll
+F:\Class\Dec22\C#\BasicCSharp\Culture\bin\Debug\net6.0\Culture.pdb
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.csproj.AssemblyReference.cache
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.GeneratedMSBuildEditorConfig.editorconfig
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.AssemblyInfoInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.AssemblyInfo.cs
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.csproj.CoreCompileInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.dll
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\refint\Culture.dll
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.pdb
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\Culture.genruntimeconfig.cache
+F:\Class\Dec22\C#\BasicCSharp\Culture\obj\Debug\net6.0\ref\Culture.dll
