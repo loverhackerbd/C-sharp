@@ -1,0 +1,15 @@
+F:\Class\Dec22\C#\BasicCSharp\Array\bin\Debug\net6.0\Array.exe
+F:\Class\Dec22\C#\BasicCSharp\Array\bin\Debug\net6.0\Array.deps.json
+F:\Class\Dec22\C#\BasicCSharp\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+F:\Class\Dec22\C#\BasicCSharp\Array\bin\Debug\net6.0\Array.dll
+F:\Class\Dec22\C#\BasicCSharp\Array\bin\Debug\net6.0\Array.pdb
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.dll
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\refint\Array.dll
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.pdb
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+F:\Class\Dec22\C#\BasicCSharp\Array\obj\Debug\net6.0\ref\Array.dll
